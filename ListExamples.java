@@ -45,5 +45,11 @@ class ListExamples {
     return result;
   }
 
+  public static void main(String[] args) {
+    ListExamples listMethods = new ListExamples();
+    int[] arr1 = new int[]{1,2,3,4,5};
+    int[] arr2 = new int[]{1,2,3,4,5};
+    
+  }
 
 }
